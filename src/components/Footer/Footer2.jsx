@@ -1,9 +1,9 @@
 import React from 'react'
-import { ReactComponent as Linkedin } from "../Footer/socialmedia/Linkedin.svg"
-import { ReactComponent as Facebook } from "../Footer/socialmedia/Facebook.svg"
-import { ReactComponent as Youtube } from "../Footer/socialmedia/Youtube.svg"
-import { ReactComponent as Twitter } from "../Footer/socialmedia/Twitter.svg"
-import { ReactComponent as instagram } from "../Footer/socialmedia/Instagram.svg"
+import Linkedin  from "../Footer/socialmedia/Linkedin.svg"
+import Facebook from "../Footer/socialmedia/Facebook.svg"
+import Youtube  from "../Footer/socialmedia/Youtube.svg"
+import Twitter from "../Footer/socialmedia/Twitter.svg"
+import instagram  from "../Footer/socialmedia/Instagram.svg"
 
 function Footer2() {
     return (
